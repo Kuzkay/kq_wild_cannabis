@@ -1,6 +1,6 @@
 Config = {}
 
-Config.debug = true
+Config.debug = false
 
 --- SETTINGS FOR ESX
 Config.esxSettings = {
@@ -17,7 +17,7 @@ Config.qbSettings = {
 }
 
 Config.target = {
-    enabled = true,
+    enabled = false,
     system = 'ox_target' -- 'qtarget' or 'qb-target' or 'ox_target'  (Other systems might work as well)
 }
 
