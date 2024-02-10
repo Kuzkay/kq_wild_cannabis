@@ -8,7 +8,9 @@
 
 ### step 3.:
 > [!TIP]
-> Buy the custom props from 'bzzz' and activate them in the server.lua and in the fxmanifest. 
-The script was adapted accordingly..
+> Buy the custom props from 'bzzz' and activate them in the server.lua and in the fxmanifest.
+
+|The script was adapted accordingly|
+|---|
 
 ### step 4.:
