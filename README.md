@@ -1,4 +1,6 @@
 ### ORIGINAL KQ WILD CANNABIS SCRIPT </ EDIT BY BYLICKILABS & G3N3RATION-X
+|Coords.: 1855.8428, 4911.0308, 45.0654, 211.7171|
+|---|
 
 > [!NOTE]
 > Add Items to your Inventory.
@@ -38,6 +40,9 @@ bzzz_plants_weed_yellow_bud_big.ydr
 
 ### Restart Server
 
-### SCRENSHOT
+### SCRENSHOT bzzz
 |![1](https://github.com/bylickilabs/wild_cannabis/assets/109308073/c3db8164-5b57-4b04-960f-2af1c6dc7410)|
 |---|
+
+### Screenshot Wild Cannabis
+![2](https://github.com/bylickilabs/wild_cannabis/assets/109308073/03ccb8cd-70cb-4e4e-bc87-fd0edac6a064)
