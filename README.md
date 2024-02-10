@@ -1,10 +1,10 @@
 ### ORIGINAL KQ WILD CANNABIS SCRIPT </ EDIT BY BYLICKILABS & G3N3RATION-X
 
-### step 1.:
-Add Items to your Inventory
+> [!NOTE]
+> Add Items to your Inventory.
 
-### step 2.:
-Add SQL to your Database
+> [!NOTE]
+> Add SQL to your Database
 
 ### step 3.:
 > [!TIP]
