@@ -34,6 +34,6 @@ bzzz_plants_weed_sunny_bud_big.ydr
 bzzz_plants_weed_yellow_bud_big.ydr
 ```
 > [!WARNING]
-> Don't forget to add start wild_cannabis to your Server.cfg.
+> Don't forget to add 'start wild_cannabis' to your Server.cfg.
 
 ### Restart Server
