@@ -1,4 +1,0 @@
-
-	["kq_empty_baggie"] 			 = {["name"] = "kq_empty_baggie", 			    ["label"] = "Empty baggie",	 		    ["weight"] = 50, 		["type"] = "item", 		["image"] = "kq_empty_baggie.png", 	    ["unique"] = false, 	["useable"] = false, 	["shouldClose"] = true,    ["combinable"] = nil,   ["description"] = "Empty sealable baggie"},
-	["kq_packaged_wild_cannabis"] 	 = {["name"] = "kq_packaged_wild_cannabis", 	["label"] = "Bagged wild cannabis",	 	["weight"] = 1000, 		["type"] = "item", 		["image"] = "kq_packaged_wild_cannabis.png", 	    ["unique"] = false, 	["useable"] = false, 	["shouldClose"] = true,    ["combinable"] = nil,   ["description"] = "Packaged wild cannabis"},
-	["kq_wild_cannabis"] 			 = {["name"] = "kq_wild_cannabis", 			    ["label"] = "Wild cannabis",	 		["weight"] = 250, 		["type"] = "item", 		["image"] = "kq_wild_cannabis.png", 	["unique"] = false, 	["useable"] = false, 	["shouldClose"] = true,    ["combinable"] = nil,   ["description"] = "Wild cannabis"},
