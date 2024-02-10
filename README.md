@@ -40,9 +40,9 @@ bzzz_plants_weed_yellow_bud_big.ydr
 
 ### Restart Server
 
-### SCRENSHOT bzzz
+### SCRENSHOT </ bzzz props
 |![1](https://github.com/bylickilabs/wild_cannabis/assets/109308073/c3db8164-5b57-4b04-960f-2af1c6dc7410)|
 |---|
 
-### Screenshot Wild Cannabis
+### Screenshot </ Wild Cannabis
 ![2](https://github.com/bylickilabs/wild_cannabis/assets/109308073/03ccb8cd-70cb-4e4e-bc87-fd0edac6a064)
