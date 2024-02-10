@@ -9,7 +9,7 @@
 ### step 3.:
 > [!TIP]
 > Buy the custom props from 'bzzz' and activate them in the server.lua and in the fxmanifest.
-[![HERE](https://bzzz.tebex.io/package/5954200)
+![HERE](https://bzzz.tebex.io/checkout/packages/add/5954200/single)
 
 |The script was adapted accordingly|
 |---|
