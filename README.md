@@ -13,4 +13,27 @@ and activate them in the server.lua and in the fxmanifest.
 |The script was adapted accordingly|
 |---|
 
-### step 4.:
+
+> [!NOTE]
+> Add the following files to the stream directory
+
+```yarn
+bzzz_plants_weed_blue_bud_big.ydr
+bzzz_plants_weed_colores.ytd
+bzzz_plants_weed_cyan_bud_big.ydr
+bzzz_plants_weed_green_bud_big.ydr
+bzzz_plants_weed_maroon_bud_big.ydr
+bzzz_plants_weed_natur_bud_big.ydr
+bzzz_plants_weed_navy_bud_big.ydr
+bzzz_plants_weed_props.ytyp
+bzzz_plants_weed_purple_bud_big.ydr
+bzzz_plants_weed_red_bud_big.ydr
+bzzz_plants_weed_romance_bud_big.ydr
+bzzz_plants_weed_sea_bud_big.ydr
+bzzz_plants_weed_sunny_bud_big.ydr
+bzzz_plants_weed_yellow_bud_big.ydr
+```
+> [!WARNING]
+> Don't forget to add start wild_cannabis to your Server.cfg.
+
+### Restart Server
