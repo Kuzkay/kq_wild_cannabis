@@ -6,9 +6,9 @@
 > [!NOTE]
 > Add SQL to your Database
 
-### step 3.:
 > [!TIP]
-> Buy the custom props from 'bzzz' <a href="https://bzzz.tebex.io/package/5954200"> HERE</a> and activate them in the server.lua and in the fxmanifest.
+> Buy the custom props from 'bzzz' <a href="https://bzzz.tebex.io/package/5954200"> HERE</a>
+> and activate them in the server.lua and in the fxmanifest.
 
 |The script was adapted accordingly|
 |---|
