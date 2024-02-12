@@ -19,8 +19,8 @@ and activate them in the server.lua and in the fxmanifest.
 > [!NOTE]
 > Add the following files to the stream directory
 
-> [!TIP]
-> Activate the follow in the fxmanifest
+|Activate the follow in the fxmanifest|
+|---|
 -- 'stream/bzzz_plants_weed_props.ytyp',
 -- data_file 'DLC_ITYP_REQUEST' 'stream/bzzz_plants_weed_props.ytyp'
 
