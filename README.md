@@ -17,7 +17,7 @@ and activate them in the server.lua and in the fxmanifest.
 
 
 > [!NOTE]
-> Add the following files to the stream directory
+> Create Stream Directory and add the following files to the stream directory
 
 ### Activate the follow codes in the fxmanifest
 
