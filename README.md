@@ -19,11 +19,6 @@ and activate them in the server.lua and in the fxmanifest.
 > [!NOTE]
 > Create Stream Directory and add the following files to the stream directory
 
-### Activate the follow codes in the fxmanifest
-
-| -- 'stream/bzzz_plants_weed_props.ytyp',| -- data_file 'DLC_ITYP_REQUEST' 'stream/bzzz_plants_weed_props.ytyp' |
-|---|---|
-
 ```yarn
 bzzz_plants_weed_blue_bud_big.ydr
 bzzz_plants_weed_colores.ytd
@@ -40,6 +35,12 @@ bzzz_plants_weed_sea_bud_big.ydr
 bzzz_plants_weed_sunny_bud_big.ydr
 bzzz_plants_weed_yellow_bud_big.ydr
 ```
+### Activate the follow codes in the fxmanifest
+
+| -- 'stream/bzzz_plants_weed_props.ytyp',| -- data_file 'DLC_ITYP_REQUEST' 'stream/bzzz_plants_weed_props.ytyp' |
+|---|---|
+
+
 > [!WARNING]
 > Don't forget to add 'start wild_cannabis' to your Server.cfg.
 
