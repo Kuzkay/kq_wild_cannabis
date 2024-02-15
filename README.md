@@ -18,6 +18,7 @@ and activate them in the server.lua and in the fxmanifest.
 |The script was adapted accordingly|
 |---|
 
+# Plants Cooldown Included
 
 > [!NOTE]
 > Create Stream Directory and add the following files to the stream directory
