@@ -1,9 +1,13 @@
 if Config.esxSettings.enabled then
     ESX = nil
 
-    TriggerEvent('esx:getSharedObject', function(obj)
-        ESX = obj
-    end)
+    if Config.esxSettings.oldExport then
+        TriggerEvent('esx:getSharedObject', function(obj)
+            ESX = obj
+        end)
+    else 
+        ESX = exports["es_extended"]:getSharedObject()
+    end
     
     function AddMoney(player, amount)
         local xPlayer = ESX.GetPlayerFromId(player)
