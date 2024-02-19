@@ -6,6 +6,7 @@ Config.debug = false
 Config.esxSettings = {
     enabled = true,
     oldEsx = false,
+    oldExport = false,
     moneyAccount = 'black_money',
 }
 
